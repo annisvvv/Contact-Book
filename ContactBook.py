@@ -1,3 +1,5 @@
+# WELCOME
+
 import os
 
 contacts_file = "contacts.txt"
